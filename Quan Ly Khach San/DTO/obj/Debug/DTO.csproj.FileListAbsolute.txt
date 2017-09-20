@@ -1,0 +1,21 @@
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\DTO\bin\Debug\DTO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\DTO\bin\Debug\DTO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\DTO\obj\Debug\DTO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\DTO\obj\Debug\DTO.pdb
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\bin\Debug\DTO.dll
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\bin\Debug\DTO.pdb
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\bin\Debug\mscorlib.dll
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\bin\Debug\normidna.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\bin\Debug\normnfc.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\bin\Debug\normnfd.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\bin\Debug\normnfkc.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\bin\Debug\normnfkd.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\obj\Debug\DTO.dll
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\DTO\obj\Debug\DTO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DTO\bin\Debug\DTO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DTO\bin\Debug\DTO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DTO\obj\Debug\DTO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DTO\obj\Debug\DTO.pdb

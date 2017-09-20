@@ -1,0 +1,110 @@
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\Quan Ly Khach San.exe.config
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Interop.ExcelClientPkgLib.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\GUI.csproj.ResolveComReference.cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\Quan Ly Khach San.exe
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\Quan Ly Khach San.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportSource.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.Shared.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\DTO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\FlashControlV71.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\DAO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\ShockwaveFlashObjects.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\stdole.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\BUS.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\DTO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\DAO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\GUI.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fBaoCao.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fDangNhap.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fDanhMucPhong.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fDatPhong.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fInHoaDon.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fKhachHang.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fLoaiKhach.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fLoaiPhong.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fManhinhChinh.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fNhanVien.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fQuyDinh.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fReport.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fTaiKhoan.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThayDoiMatKhauNhanVien.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThemKhachHang.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThemMoiPhieuDangKy.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThemPhongDangKy.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThemThietBi.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThongTin_TraPhong.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fTrangThietBi.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.Properties.Resources.resources
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\GUI.csproj.GenerateResource.Cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan Ly Khach San.exe
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan Ly Khach San.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\Quan Ly Khach San.exe.config
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Interop.ExcelClientPkgLib.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\GUI.csproj.ResolveComReference.cache
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan Ly Khach San.exe
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan Ly Khach San.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\Quan Ly Khach San.exe
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\Quan Ly Khach San.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\BUS.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportSource.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.Shared.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\DTO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\FlashControlV71.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\DAO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\ShockwaveFlashObjects.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\stdole.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\BUS.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\DTO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\bin\Release\DAO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\GUI.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fBaoCao.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fDangNhap.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fDanhMucPhong.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fDatPhong.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fInHoaDon.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fKhachHang.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fLoaiKhach.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fLoaiPhong.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fManhinhChinh.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fNhanVien.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fQuyDinh.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fReport.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fTaiKhoan.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThayDoiMatKhauNhanVien.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThemKhachHang.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThemMoiPhieuDangKy.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThemPhongDangKy.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThemThietBi.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fThongTin_TraPhong.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.fTrangThietBi.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\Quan_Ly_Khach_San.Properties.Resources.resources
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\Quan Ly Khach San\obj\Release\GUI.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\DAO\bin\Release\DAO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\DAO\bin\Release\DAO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\DAO\bin\Release\DTO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\DAO\bin\Release\DTO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\DAO\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\DAO\obj\Release\DAO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\DAO\obj\Release\DAO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DAO\bin\Release\DAO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DAO\bin\Release\DAO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DAO\bin\Release\DTO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DAO\bin\Release\DTO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DAO\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DAO\obj\Release\DAO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\DAO\obj\Release\DAO.pdb

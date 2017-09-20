@@ -1,0 +1,18 @@
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\BUS.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\DAO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\DTO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\DAO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\DTO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Release\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Release\BUS.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\BUS.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\BUS.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\DAO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\DTO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\DAO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Release\DTO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Release\BUS.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Release\BUS.pdb

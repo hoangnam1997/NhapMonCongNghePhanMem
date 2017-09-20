@@ -1,0 +1,60 @@
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\bin\Debug\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\bin\Debug\BUS.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\obj\Debug\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\obj\Debug\BUS.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\bin\Debug\DAO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\bin\Debug\DTO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\bin\Debug\DAO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\Quan Ly Khach San\BUS\bin\Debug\DTO.pdb
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.dll
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.pdb
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.dll
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.dll
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.pdb
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.pdb
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.dll
+D:\Nhập môn công nghệ phần mềm\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.pdb
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.dll
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.pdb
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.dll
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.dll
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\mscorlib.dll
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.pdb
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.pdb
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\normidna.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\normnfc.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\normnfd.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\normnfkc.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\bin\Debug\normnfkd.nlp
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.dll
+C:\Users\DaoHuu\Desktop\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.pdb
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.dll
+E:\Code\UIT school\Nhập môn công nghệ phần mềm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\BUS.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DAO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\bin\Debug\DTO.pdb
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.dll
+E:\Code\UIT school\nm cnpm\DO AN\DO-AN\Quan Ly Khach San\BUS\obj\Debug\BUS.pdb
